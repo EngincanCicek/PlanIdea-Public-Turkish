@@ -25,11 +25,18 @@ Bu bir kapalı kaynak uygulaması olduğundan, bu depo yalnızca kamuya açık o
 
 <p float="left">
 <img src="https://github.com/EngincanCicek/PlanIdea-Public-Turkish/blob/main/Ana_ekran.jpg" width="310.5" height="672">
+<img src="https://github.com/EngincanCicek/PlanIdea-Public-Turkish/blob/main/Plan_ekran.jpg" width="310.5" height="672">
+<img src="https://github.com/EngincanCicek/PlanIdea-Public-Turkish/blob/main/Sayaç.jpg" width="310.5" height="672">
 </p>
 
 ![Logo](https://github.com/EngincanCicek/PlanIdea-Public/blob/main/SocialMediaBackground.png)
 
 
+<p float="left">
+<img src="https://github.com/EngincanCicek/PlanIdea-Public-Turkish/blob/main/Plan_ekran1.jpg" width="310.5" height="672">
+<img src="https://github.com/EngincanCicek/PlanIdea-Public-Turkish/blob/main/Profil.jpg" width="310.5" height="672">
+<img src="https://github.com/EngincanCicek/PlanIdea-Public-Turkish/blob/main/Başarımlar.jpg" width="310.5" height="672">
+</p>
 
 ## Teknolojiler
 
