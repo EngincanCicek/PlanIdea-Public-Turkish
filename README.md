@@ -27,7 +27,6 @@ Bu bir kapalı kaynak uygulaması olduğundan, bu depo yalnızca kamuya açık o
 <img src="https://github.com/EngincanCicek/PlanIdea-Public-Turkish/blob/main/Ana_ekran.jpg" width="310.5" height="672">
 <img src="https://github.com/EngincanCicek/PlanIdea-Public-Turkish/blob/main/Plan_ekran.jpg" width="310.5" height="672">
 <img src="https://github.com/EngincanCicek/PlanIdea-Public-Turkish/blob/main/Sayaç.jpg" width="310.5" height="672">
-<img src="https://github.com/EngincanCicek/PlanIdea-Public-Turkish/blob/main/Profil.jpg" width="310.5" height="672">
 
 </p>
 
@@ -37,6 +36,7 @@ Bu bir kapalı kaynak uygulaması olduğundan, bu depo yalnızca kamuya açık o
 <p float="left">
 <img src="https://github.com/EngincanCicek/PlanIdea-Public-Turkish/blob/main/Plan_ekran1.jpg" width="310.5" height="672">
 <img src="https://github.com/EngincanCicek/PlanIdea-Public-Turkish/blob/main/Başarımlar.jpg" width="310.5" height="672">
+ <img src="https://github.com/EngincanCicek/PlanIdea-Public-Turkish/blob/main/Profil.jpg" width="310.5" height="672">
 </p>
 
 ## Teknolojiler
@@ -48,3 +48,20 @@ Bu bir kapalı kaynak uygulaması olduğundan, bu depo yalnızca kamuya açık o
 ## Gizlilik Politikası ve Kullanıcı Sözleşmesi Bağlantıları
 - [Gizlilik Politikası](https://sites.google.com/view/planidea/gizlilik-s%C3%B6zle%C5%9Fmesi)
 - [Gizlilik Politikası (İngilizce)](https://sites.google.com/view/planidea/)
+
+## Kullanılan Kütüphaneler
+- Firebase Database (com.google.firebase:firebase-database)
+- Firebase Remote Config (com.google.firebase:firebase-config)
+- Firebase Crashlytics (com.google.firebase:firebase-crashlytics)
+- Lottie (com.airbnb.android:lottie)
+- Google Play Services Ads (com.google.android.gms:play-services-ads)
+- Firebase BOM (com.google.firebase:firebase-bom)
+- Firebase Analytics (com.google.firebase:firebase-analytics)
+- Navigation (androidx.navigation:navigation-fragment, androidx.navigation:navigation-ui)-
+- Firebase Firestore (com.google.firebase:firebase-firestore)
+- WorkManager (androidx.work:work-runtime)
+- LiveData (androidx.lifecycle:lifecycle-livedata)
+- ViewModel (androidx.lifecycle:lifecycle-viewmodel)
+- Firebase Authentication (com.google.firebase:firebase-auth)
+- Google Play Services Auth (com.google.android.gms:play-services-auth)
+- Ucdemir-Inn_App_Purchase_v2 (com.github.Ucdemir:Ucdemir-Inn_App_Purchase_v2)
